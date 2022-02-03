@@ -58,4 +58,4 @@ function punktePruefen(punkte){
         summe = summe + punkte;
         anzahlNote = anzahlNote + 1;
     }
-}
+} // "if" ist für Wenn, man möchte z.B etwas in den "function" begrenzen, dann nutzt man "if"
